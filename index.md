@@ -34,6 +34,8 @@ e por ai vai...
 
 [Este link vai para imgur](https://imgur.com/)
 
+[Neste link você pode gerar tabelas](https://www.tablesgenerator.com/)
+
 ![imagem](https://i.imgur.com/lzmgy4g_d.webp?maxwidth=520&shape=thumb&fidelity=high)
 
 ## Código
